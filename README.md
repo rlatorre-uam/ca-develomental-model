@@ -55,7 +55,7 @@ If you use this code, please cite the corresponding article once published:
 
 > Brun-Usan, M., de Juan García, J., & Latorre, R. (2025).  
 > *A Minimal CA-Based Model Captures Evolutionarily Relevant Features of Biological Development.*  
-> PLoS ONE (in press). DOI to be added upon publication.
+> Mathematics (in press). DOI to be added upon publication.
 
 ## License
 This project is licensed under the [GNU General Public License v3](LICENSE).  

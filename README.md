@@ -1,6 +1,12 @@
 # Minimal CA-Based Model
-[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fmath13193238-purple?style=flat-square)](https://doi.org/10.3390/math13193238)
+[![Software DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18407479-blue?style=flat-square)](https://doi.org/10.5281/zenodo.18407479)
+[![Article DOI](https://img.shields.io/badge/Article%20DOI-10.3390%2Fmath13193238-purple?style=flat-square)](https://doi.org/10.3390/math13193238)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green?style=flat-square)](LICENSE)
+
+**Authors**  
+Miguel Brun-Usan – Centro Andaluz de Biología del Desarrollo, CSIC-Universidad Pablo de Olavide  
+Javier de Juan García – Dpto. Ingeniería Informática, Escuela Politécnica Superior, Universidad Autónoma de Madrid  
+Roberto Latorre – Dpto. Ingeniería Informática, Escuela Politécnica Superior, Universidad Autónoma de Madrid  
 
 This repository contains the source code accompanying the article:
 
@@ -56,12 +62,20 @@ perl pdfs6.pl
 This script invokes **Gnuplot** to produce simple visualizations of the data contained in `autom.dat`.
 
 ## Citation
-If you use this code in your work, please cite the associated article:
 
-Brun-Usan, M.; de Juan García, J.; Latorre, R. 2025.
-A Minimal CA-Based Model Capturing Evolutionarily Relevant Features of Biological Development.
-*Mathematics*, 13(19), 3238.
-https://doi.org/10.3390/math13193238
+### Software
+If you use this code in your work, please cite:
+
+Brun-Usan, M.; de Juan García, J.; Latorre, R. (2025).  
+Minimal CA-Based Model (Version v1.0.0).  
+Zenodo. https://doi.org/10.5281/zenodo.18407479
+
+### Associated article
+If you use the model or results described in the paper, please also cite:
+
+Brun-Usan, M.; de Juan García, J.; Latorre, R. (2025).  
+A Minimal CA-Based Model Capturing Evolutionarily Relevant Features of Biological Development.  
+*Mathematics*, 13(19), 3238. https://doi.org/10.3390/math13193238
 
 ## License
 This project is licensed under the [GNU General Public License v3](LICENSE).  

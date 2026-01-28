@@ -1,0 +1,31 @@
+# File: CITATION.cff
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article below."
+title: "Minimal CA-Based Model"
+authors:
+  - family-names: "Brun-Usan"
+    given-names: "Miguel"
+  - family-names: "de Juan García"
+    given-names: "Javier"
+  - family-names: "Latorre"
+    given-names: "Roberto"
+
+preferred-citation:
+  type: article
+  title: "A Minimal CA-Based Model Capturing Evolutionarily Relevant Features of Biological Development"
+  authors:
+    - family-names: "Brun-Usan"
+      given-names: "Miguel"
+    - family-names: "de Juan García"
+      given-names: "Javier"
+    - family-names: "Latorre"
+      given-names: "Roberto"
+  journal: "Mathematics"
+  year: 2025
+  volume: 13
+  issue: 19
+  pages: "3238"
+  doi: "10.3390/math13193238"
+  url: "https://doi.org/10.3390/math13193238"
+
+  repository-code: "https://github.com/rlatorre-uam/ca-develomental-model"
